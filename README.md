@@ -1,2 +1,3 @@
-# Campus_Navigation
-Provide positioning, navigation and real-time query functions, and realize simulated navigation with a visual interface.
+# 校园导览系统
+
+使用EasyX框架搭建的桌面应用。该系统根据校园内的实际情况和用户的具体需求，为用户提供定位、导航和实时查询功能，并用可视化界面实现模拟导航。
