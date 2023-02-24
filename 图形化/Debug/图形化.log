@@ -1,0 +1,68 @@
+﻿  源.cpp
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(155,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(163,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(1442,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(1447,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2013,33): warning C4099: “TSP_node”: 类型名称以前使用“class”现在使用的是“struct”
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(337): message : 参见“TSP_node”的声明
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2027,21): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2046,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2051,50): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2068,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2080,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2225,43): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2244,47): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2296,39): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2315,43): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2347,43): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2349,43): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2357,43): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2359,43): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2571,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2619,43): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2631,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2635,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2636,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2643,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2654,33): warning C4099: “TSP_node”: 类型名称以前使用“class”现在使用的是“struct”
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(337): message : 参见“TSP_node”的声明
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2655,26): warning C4099: “TSP_node”: 类型名称以前使用“class”现在使用的是“struct”
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(337): message : 参见“TSP_node”的声明
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2657,20): warning C4099: “TSP_node”: 类型名称以前使用“class”现在使用的是“struct”
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(337): message : 参见“TSP_node”的声明
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2692,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2698,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2710,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2722,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2741,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2776,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2779,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2804,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2835,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2838,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2891,25): warning C4099: “T_C_P_T”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(327): message : 参见“T_C_P_T”的声明
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2892,25): warning C4099: “T_C_P_T”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(327): message : 参见“T_C_P_T”的声明
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2911,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2921,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2933,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2941,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2950,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2957,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(2961,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(3050,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(3056,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(3062,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(3036,9): warning C4101: “sum”: 未引用的局部变量
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(3037,9): warning C4101: “s”: 未引用的局部变量
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(3228,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(4109,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(4259,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(4405,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(4499,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(4645,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86184\Desktop\图形化图形化\图形化\图形化\源.cpp(4792,22): warning C4018: “<”: 有符号/无符号不匹配
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+源.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  图形化.vcxproj -> C:\Users\86184\Desktop\图形化图形化\图形化\Debug\图形化.exe
